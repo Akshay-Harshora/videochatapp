@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776717889167",
+    "project_id": "videochatapp-9f962",
+    "storage_bucket": "videochatapp-9f962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776717889167:android:be1393d8bdf5887f7c4afa",
+        "android_client_info": {
+          "package_name": "com.example.videochatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776717889167-871aoinvfc6tdepnr5fg581ig68dhlvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVYx63iIM8m4SmwWBWUrzH7BbpX4oxp8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776717889167-871aoinvfc6tdepnr5fg581ig68dhlvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
